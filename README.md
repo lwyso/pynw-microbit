@@ -3,6 +3,8 @@ Python User Group coding session on microbit in MicroPython
 
 ![Alt Text](https://github.com/lwyso/pynw-microbit/blob/master/mbpynw.gif)
 
+![Alt Text](https://github.com/lwyso/pynw-microbit/blob/master/mbpynw.mp4)
+
 The BBC Micro:bit is a low cost pocket-sized computer, the device has motion detection, built in compass, bluetooth technology, and quite a few other functions as well. It is for use in teaching computing at schools, and was given to every child in year 7 across the UK in 2016​. 
 
 In the session, we will​ be looking ​at a number of projects​ created by the wider community, followed by a hands on coding session, write your own code in MicroPython, and then a show and tell of your project at the end.
