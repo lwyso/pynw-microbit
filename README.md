@@ -9,10 +9,16 @@ In the session, we will​ be looking ​at a number of projects​ created by t
 
 ## Writing your code
 
-You can write code to operate the micro:bit by:
+You can write code online to operate the micro:bit by:
 
-- using the [online code editor - All options](http://microbit.org/code/)
+- Using the [online code editor - All options](http://microbit.org/code/)
 - [JavaScript Blocks Editor](https://pxt.microbit.org/?lang=en)
 - [MicroPython Editor](http://python.microbit.org/editor.html)
 
 Once you are happy with your code, you can save, download and then drag the hex file to the micro:bit!
+
+Alternatively you may want to download a micro editor if you wish to write code offline:
+
+- [Mu - a 'micro" editor](https://github.com/mu-editor/mu)
+
+
