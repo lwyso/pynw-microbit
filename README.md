@@ -25,6 +25,10 @@ Same with the online editor, once you are happy with your code, you can save and
 
 ## Getting started
 
+There are a number of web site, documentations, guides and projects to get started, here are a few suggestions:
+
+-
+
 ## Example Code
 
 All micro:bit are preload with an example of the game 'Magic 8', sample code from [BBC micro:bit MicroPython documentation - Accelerometer](https://microbit-micropython.readthedocs.io/en/latest/accelerometer.html).
