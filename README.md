@@ -1,7 +1,7 @@
 # pynw-microbit
 Python User Group coding session on microbit in MicroPython
 
-<video src="mbpynw.mp4" width="320" height="200" controls preload></video>
+<video src="https://github.com/lwyso/pynw-microbit/blob/master/mbpynw.mp4" width="320" height="200" controls preload></video>
 
 The BBC Micro:bit is a low cost pocket-sized computer, the device has motion detection, built in compass, bluetooth technology, and quite a few other functions as well. It is for use in teaching computing at schools, and was given to every child in year 7 across the UK in 2016​. 
 
