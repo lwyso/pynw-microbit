@@ -19,7 +19,7 @@ Once you are happy with your code, you can save, download and then drag the hex 
 
 Alternatively you may want to download a micro editor if you wish to write code offline:
 
-- [Mu - a 'micro" editor](https://github.com/mu-editor/mu)
+- [Mu - a "micro" editor](https://github.com/mu-editor/mu)
 
 Same with the online editor, once you are happy with your code, you can save and REPL to the micro:bit!
 
@@ -27,7 +27,7 @@ Same with the online editor, once you are happy with your code, you can save and
 
 ## Example Code
 
-All micro:bit are preload with an example of a game 'Magic 8', sample code from [BBC micro:bit MicroPython documentation - Accelerometer](https://microbit-micropython.readthedocs.io/en/latest/accelerometer.html)
+All micro:bit are preload with an example of the game 'Magic 8', sample code from [BBC micro:bit MicroPython documentation - Accelerometer](https://microbit-micropython.readthedocs.io/en/latest/accelerometer.html).
 
 ```
 from microbit import *
