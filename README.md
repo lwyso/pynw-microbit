@@ -12,7 +12,7 @@ In the session, we will​ be looking ​at a number of projects​ created by t
 ## What is Micro:bit?
 
 - [Introducing the BBC micro:bit](http://www.bbc.co.uk/programmes/articles/2M3H2YpKLsw2W8fC2ycHYSR/welcome-to-the-micro-bit-live-lesson) - Watch this short animation to find out more about the BBC micro:bit and its features.
-- [BBC Micro:Bit Hands On | WIRED](https://www.youtube.com/watch?v=k6YfP7dRP5Q)
+- [BBC Micro:Bit Hands On | WIRED](https://www.youtube.com/watch?v=k6YfP7dRP5Q) An overview of the BBC Micro:bit by Wired.
 
 ## Writing your code
 
@@ -36,7 +36,7 @@ There are a number of web site, documentations, guides and projects to get start
 
 - [BBC micro:bit MicroPython documentation](https://microbit-micropython.readthedocs.io/en/latest/index.html) - This web site includes a number of tutorials you need to get started from basic Micropython code to advanced API.
 
-- Stuck on an idea? Why not visit the ideas page [Play,learn, explore](http://microbit.org/ideas/).
+- Stuck on an idea? Why not visit the ideas page [Play, learn, explore](http://microbit.org/ideas/).
 
 - Live lesson videos from the [BBC micro:bit Live Lesson](http://www.bbc.co.uk/programmes/articles/2M3H2YpKLsw2W8fC2ycHYSR/welcome-to-the-micro-bit-live-lesson)
 
