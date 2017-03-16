@@ -32,6 +32,7 @@ There are a number of web site, documentations, guides and projects to get start
 ## Example Code
 
 All micro:bit are preload with an example of the game 'Magic 8', sample code from [BBC micro:bit MicroPython documentation - Accelerometer](https://microbit-micropython.readthedocs.io/en/latest/accelerometer.html).
+Sample code can be downloaded here (right click save link as...), [magic8.py](https://github.com/lwyso/pynw-microbit/blob/master/SampleCode/magic8.py) or the [magic8.hex](https://github.com/lwyso/pynw-microbit/blob/master/SampleCode/magic8.hex) to load straight to your micro:bit.
 
 ```
 from microbit import *
