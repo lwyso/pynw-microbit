@@ -9,7 +9,7 @@ The BBC Micro:bit is a low cost pocket-sized computer, the device has motion det
 
 In the session, we will​ be looking ​at a number of projects​ created by the wider community, followed by a hands on coding session, write your own code in MicroPython, and then a show and tell of your project at the end.
 
-##What is Micro:bit?
+## What is Micro:bit?
 
 - [Introducing the BBC micro:bit](http://www.bbc.co.uk/programmes/articles/2M3H2YpKLsw2W8fC2ycHYSR/welcome-to-the-micro-bit-live-lesson) - Watch this short animation to find out more about the BBC micro:bit and its features.
 - [BBC Micro:Bit Hands On | WIRED](https://www.youtube.com/watch?v=k6YfP7dRP5Q)
