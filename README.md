@@ -5,7 +5,14 @@ Python User Group coding session on microbit in MicroPython
 
 The BBC Micro:bit is a low cost pocket-sized computer, the device has motion detection, built in compass, bluetooth technology, and quite a few other functions as well. It is for use in teaching computing at schools, and was given to every child in year 7 across the UK in 2016​. 
 
+
+
 In the session, we will​ be looking ​at a number of projects​ created by the wider community, followed by a hands on coding session, write your own code in MicroPython, and then a show and tell of your project at the end.
+
+##What is Micro:bit?
+
+- [Introducing the BBC micro:bit](http://www.bbc.co.uk/programmes/articles/2M3H2YpKLsw2W8fC2ycHYSR/welcome-to-the-micro-bit-live-lesson) - Watch this short animation to find out more about the BBC micro:bit and its features.
+- [BBC Micro:Bit Hands On | WIRED](https://www.youtube.com/watch?v=k6YfP7dRP5Q)
 
 ## Writing your code
 
@@ -27,11 +34,15 @@ Same with the online editor, once you are happy with your code, you can save and
 
 There are a number of web site, documentations, guides and projects to get started, here are a few suggestions:
 
--
+- [BBC micro:bit MicroPython documentation](https://microbit-micropython.readthedocs.io/en/latest/index.html) - This web site includes a number of tutorials you need to get started from basic Micropython code to advanced API.
+
+- Stuck on an idea? Why not visit the ideas page [Play,learn, explore](http://microbit.org/ideas/).
+
+- Live lesson videos from the [BBC micro:bit Live Lesson](http://www.bbc.co.uk/programmes/articles/2M3H2YpKLsw2W8fC2ycHYSR/welcome-to-the-micro-bit-live-lesson)
 
 ## Example Code
 
-All micro:bit are preload with an example of the game 'Magic 8', sample code from [BBC micro:bit MicroPython documentation - Accelerometer](https://microbit-micropython.readthedocs.io/en/latest/accelerometer.html).
+All micro:bit are pre-loaded with an example of the game 'Magic 8', sample code from [BBC micro:bit MicroPython documentation - Accelerometer](https://microbit-micropython.readthedocs.io/en/latest/accelerometer.html).
 Sample code can be downloaded here (right click save link as...), [magic8.py](https://github.com/lwyso/pynw-microbit/blob/master/SampleCode/magic8.py) or [magic8.hex](https://github.com/lwyso/pynw-microbit/blob/master/SampleCode/magic8.hex) to load straight to your micro:bit.
 
 ```
