@@ -40,6 +40,11 @@ There are a number of web site, documentations, guides and projects to get start
 
 - Live lesson videos from the [BBC micro:bit Live Lesson](http://www.bbc.co.uk/programmes/articles/2M3H2YpKLsw2W8fC2ycHYSR/welcome-to-the-micro-bit-live-lesson).
 
+## Your task
+
+- Create a game! or
+- Build something useful?
+
 ## Example Code
 
 All micro:bit are pre-loaded with an example of the game 'Magic 8', sample code from [BBC micro:bit MicroPython documentation - Accelerometer](https://microbit-micropython.readthedocs.io/en/latest/accelerometer.html).
