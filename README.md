@@ -38,7 +38,7 @@ There are a number of web site, documentations, guides and projects to get start
 
 - Stuck on an idea? Why not visit the ideas page [Play, learn, explore](http://microbit.org/ideas/).
 
-- Live lesson videos from the [BBC micro:bit Live Lesson](http://www.bbc.co.uk/programmes/articles/2M3H2YpKLsw2W8fC2ycHYSR/welcome-to-the-micro-bit-live-lesson)
+- Live lesson videos from the [BBC micro:bit Live Lesson](http://www.bbc.co.uk/programmes/articles/2M3H2YpKLsw2W8fC2ycHYSR/welcome-to-the-micro-bit-live-lesson).
 
 ## Example Code
 
