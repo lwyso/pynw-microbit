@@ -32,7 +32,7 @@ Same with the online editor, once you are happy with your code, you can save and
 
 ## Getting started
 
-There are a number of web site, documentations, guides and projects to get started, here are a few suggestions:
+There are a number of web sites, documentations, guides and projects to get started, here are a few suggestions:
 
 - [BBC micro:bit MicroPython documentation](https://microbit-micropython.readthedocs.io/en/latest/index.html) - This web site includes a number of tutorials you need to get started from basic Micropython code to advanced API.
 
