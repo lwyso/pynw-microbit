@@ -45,6 +45,14 @@ There are a number of web site, documentations, guides and projects to get start
 - Create a game! or
 - Build something useful?
 
+## Code sharing - show and tell
+At the end of the workshop we had a number of show and tell, below are the links to their code. Thanks for sharing.
+
+- [Diamond or Square?](https://github.com/lwyso/pynw-microbit/blob/master/CodeSharing/CodeSharing1_diamondORsquare.py)
+- [Random Pixel](https://github.com/lwyso/pynw-microbit/blob/master/CodeSharing/CodeSharing2_randompixel.py)
+- [Times table](https://github.com/lwyso/pynw-microbit/blob/master/CodeSharing/CodeSharing3_timestable.py)
+- [Step...](https://github.com/lwyso/pynw-microbit/blob/master/CodeSharing/CodeSharing4_step.py)
+
 ## Example Code
 
 All micro:bit are pre-loaded with an example of the game 'Magic 8', sample code from [BBC micro:bit MicroPython documentation - Accelerometer](https://microbit-micropython.readthedocs.io/en/latest/accelerometer.html).
